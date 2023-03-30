@@ -21,5 +21,6 @@ int main()
     printf("\n\n 22TCE114_MEET");
     printf("\n\n 22CE019_MEET");
     printf("clone command check");
+    printf("new future is add");
     return 0;
 }
