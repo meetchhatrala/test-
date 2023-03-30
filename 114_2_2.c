@@ -20,5 +20,6 @@ int main()
     printf("\n Change left: %d",r);
     printf("\n\n 22TCE114_MEET");
     printf("\n\n 22CE019_MEET");
+    printf("clone command check");
     return 0;
 }
